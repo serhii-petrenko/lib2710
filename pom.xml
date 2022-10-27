@@ -10,13 +10,13 @@
         <url>https://maven.pkg.github.com/serhii-petrenko/lib2710</url>
         <connection>scm:git:git@github.com:serhii-petrenko/lib2710.git</connection>
         <developerConnection>scm:git:git@github.com:serhii-petrenko/lib2710.git</developerConnection>
-<!--        <tag>0.0.1</tag>-->
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
     <properties>
         <java.version>11</java.version>
     </properties>
+
     <distributionManagement>
         <repository>
             <id>github</id>
