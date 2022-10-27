@@ -4,13 +4,13 @@
 
     <groupId>ua.javaclub</groupId>
     <artifactId>lib2710</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
 
     <scm>
         <url>https://maven.pkg.github.com/serhii-petrenko/lib2710</url>
         <connection>scm:git:git@github.com:serhii-petrenko/lib2710.git</connection>
         <developerConnection>scm:git:git@github.com:serhii-petrenko/lib2710.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>0.0.3</tag>
     </scm>
 
     <properties>
